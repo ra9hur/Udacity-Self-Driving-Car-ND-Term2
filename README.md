@@ -3,7 +3,7 @@ To build the core robotic functions of an autonomous vehicle system: sensor fusi
 
 GitHub repository links to Term 2 projects are as given below.
 
-**Projects**
+## Projects
 
 -------------
 
