@@ -29,7 +29,14 @@ Here is the link for the completed project - [SDC-P7-Unscented-Kalman-Filter][2]
 
 **3. Kidnapped Vehicle**
 
-Implement a particle filter to take real-world data and localize a lost vehicle. < yet to be implemented >
+![particle_filter](https://cloud.githubusercontent.com/assets/17127066/26500210/b84170fe-4252-11e7-9ba7-fb149f03fb7b.png)
+
+Implement a particle filter to take real-world data and localize a lost vehicle using,
+
+- (noisy) GPS estimate of its initial location, 
+- lots of (noisy) sensor and control data.
+
+Here is the link for the completed project - [SDC-P8-Particle-Filter][3]
 
 -------------
 
@@ -47,3 +54,4 @@ Implement a sophisticated control algorithm for stabilizing the vehicle in a noi
 
 [1]: https://github.com/ra9hur/SDC-P6-Extended-Kalman-Filter
 [2]: https://github.com/ra9hur/SDC-P7-Unscented-Kalman-Filter
+[3]: https://github.com/ra9hur/SDC-P8-Particle-Filter
