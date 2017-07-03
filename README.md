@@ -44,7 +44,7 @@ Here is the link for the completed project - [SDC-P8-Particle-Filter][3]
 
 ![pid-git](https://user-images.githubusercontent.com/17127066/27775891-da02bd5e-5fc3-11e7-8ed7-8e81138da41b.png)
 
-Implement a PID Controller to race around the lake track and to keep a simulated vehicle in its lane. For an extra challenge, use computer vision techniques to identify the lane lines and estimate the cross-track error.
+Implement a PID Controller to race around the lake track and to keep a simulated vehicle in its lane.
 
 Here is the link for the completed project - [SDC-P9-PID-Controller][4]
 
