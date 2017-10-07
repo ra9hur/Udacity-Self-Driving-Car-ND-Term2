@@ -13,6 +13,8 @@ GitHub repository links to Term 2 projects are as given below.
 
 Simulated lidar and radar measurements are provided to detect a bicycle that travels around the vehicle. EKF implementation uses the method called first order Taylor expansion to obtain linear approximation of the non-linear systems. 
 
+Curriculum / Expert Instructors: Mercedes-Benz Research & Development North America
+
 Here is the link for the completed project - [SDC-P6-Extended-Kalman-Filter][1]
 
 -------------
@@ -22,6 +24,8 @@ Here is the link for the completed project - [SDC-P6-Extended-Kalman-Filter][1]
 ![ukf](https://cloud.githubusercontent.com/assets/17127066/25771039/7c5a8d90-3263-11e7-8703-6bf2db5a957a.png)
 
 As in project 1, simulated lidar and radar measurements are provided to detect a bicycle that travels around the vehicle. The Unscented Kalman Filter (UKF) is a novel development in the field. UKF implementation locates objects with better accuracy in highly non-linear systems. 
+
+Curriculum / Expert Instructors: Mercedes-Benz Research & Development North America
 
 Here is the link for the completed project - [SDC-P7-Unscented-Kalman-Filter][2]
 
@@ -35,6 +39,8 @@ Implement a particle filter to take real-world data and localize a lost vehicle 
 
 - (noisy) GPS estimate of its initial location, 
 - lots of (noisy) sensor and control data.
+
+Curriculum / Expert Instructors: Mercedes-Benz Research & Development North America
 
 Here is the link for the completed project - [SDC-P8-Particle-Filter][3]
 
@@ -55,6 +61,8 @@ Here is the link for the completed project - [SDC-P9-PID-Controller][4]
 ![mpc-git](https://user-images.githubusercontent.com/17127066/27775894-e13f8674-5fc3-11e7-91db-1b6018a6a5e9.png)
 
 Implement a sophisticated control algorithm for stabilizing the vehicle in a noisy environment.
+
+Curriculum / Expert Instructors: Uber ATG
 
 Here is the link for the completed project - [SDC-P10-MPC-Controller][5]
 
